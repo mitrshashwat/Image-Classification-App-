@@ -18,7 +18,7 @@ This is an Image classification django based application, built with keras mobil
 
 ## Setup
 * After cloning or downloading git repository create a virtual environment and activate and then run
-...
+'''
 $ pip install -r requirements.txt
 $ python3 manage.py runserver
-...
+'''
