@@ -16,10 +16,14 @@ This is an Image classification django based application, built with keras mobil
 * Keras-Contrib 2.3.0
 * Tensorflow 2.0
 
-## Setup
+## Setup:
 After cloning or downloading git repository create a virtual environment and activate and then run:
 
 ```
 $ pip install -r requirements.txt
 $ python3 manage.py runserver
 ```
+
+## Useful Links:
+* https://keras.io/applications/#mobilenet
+* https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a#file-imagenet1000_clsidx_to_labels-txt
